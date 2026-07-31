@@ -1,8 +1,8 @@
 # Agent Workflow Toolkit
 
-Submission for **Week 1, Monday — Environment Diagnostics and First Agent Script**.
+Submission for **Week 1, Thursday — Authoring AGENTS.md and Prompt Refactoring**.
 
-Set up the coding-agent workspace, have the agent verify your Git, Python, and Node.js toolchain, and ship a small system-information script with a README that explains how to run it.
+Constrain the agent with an AGENTS.md file, build a small utility under those rules, and record how a vague prompt and a structured prompt produced different results.
 
 This production-style Python CLI reports the Git/Python/Node toolchain and validates, normalizes, and converts JSON records without hiding malformed input.
 
