@@ -1,8 +1,8 @@
 # Agent Workflow Toolkit
 
-Submission for **Week 2, Monday — Guided Git Workflows and Data Transformer**.
+Submission for **Week 2, Thursday — Multi-Module CLI and Defensive Data Cleaning**.
 
-Drive Git through the agent to initialise a repository, work on a feature branch, and merge it back while building a data conversion tool with a clean, reviewed commit history.
+Split a command-line tool across modules, validate and clean a deliberately messy dataset, and handle malformed input without silent failures.
 
 This production-style Python CLI reports the Git/Python/Node toolchain and validates, normalizes, and converts JSON records without hiding malformed input.
 
