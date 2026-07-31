@@ -1,3 +1,17 @@
-# NoManState E2E Submission
+# Agent Workflow Toolkit
 
-Small name-normalization utility with a standard-library test.
+Submission for **Week 1, Monday — Environment Diagnostics and First Agent Script**.
+
+Set up the coding-agent workspace, have the agent verify your Git, Python, and Node.js toolchain, and ship a small system-information script with a README that explains how to run it.
+
+This production-style Python CLI reports the Git/Python/Node toolchain and validates, normalizes, and converts JSON records without hiding malformed input.
+
+## Run
+
+```bash
+python -m workflow_tool diagnostics
+python -m workflow_tool clean input.json output.json
+python -m unittest discover -s tests -v
+```
+
+The repository also records agent rules, prompt comparison, Git workflow, TDD evidence, root-cause review, architecture, deployment, and a short demonstration.
