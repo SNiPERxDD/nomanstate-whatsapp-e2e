@@ -1,8 +1,8 @@
 # Agent Workflow Toolkit
 
-Submission for **Week 3, Monday — Test-Driven Development with Coding Agents**.
+Submission for **Week 3, Thursday — Debugging and Agent-Assisted Code Review**.
 
-Write the tests first, confirm they fail, then direct the agent to implement until they pass. Submit the implementation, the test suite, and evidence of the failing-to-passing transition.
+Diagnose and repair defects in an existing codebase without rewriting it, then run an agent-assisted review. Document each defect, its root cause, the fix, and how you verified it.
 
 This production-style Python CLI reports the Git/Python/Node toolchain and validates, normalizes, and converts JSON records without hiding malformed input.
 
