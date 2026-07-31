@@ -1,8 +1,8 @@
 # Agent Workflow Toolkit
 
-Submission for **Week 2, Thursday — Multi-Module CLI and Defensive Data Cleaning**.
+Submission for **Week 3, Monday — Test-Driven Development with Coding Agents**.
 
-Split a command-line tool across modules, validate and clean a deliberately messy dataset, and handle malformed input without silent failures.
+Write the tests first, confirm they fail, then direct the agent to implement until they pass. Submit the implementation, the test suite, and evidence of the failing-to-passing transition.
 
 This production-style Python CLI reports the Git/Python/Node toolchain and validates, normalizes, and converts JSON records without hiding malformed input.
 
