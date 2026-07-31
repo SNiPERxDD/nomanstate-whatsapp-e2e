@@ -1,8 +1,8 @@
 # Agent Workflow Toolkit
 
-Submission for **Week 3, Thursday — Debugging and Agent-Assisted Code Review**.
+Submission for **Week 4 — Capstone Project and Production Delivery**.
 
-Diagnose and repair defects in an existing codebase without rewriting it, then run an agent-assisted review. Document each defect, its root cause, the fix, and how you verified it.
+Plan, build, test, document, and deploy one complete product. Include setup documentation, an architecture note, meaningful tests, and a short demonstration of the working software.
 
 This production-style Python CLI reports the Git/Python/Node toolchain and validates, normalizes, and converts JSON records without hiding malformed input.
 
